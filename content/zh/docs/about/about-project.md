@@ -14,8 +14,6 @@ toc: true
 ---
 
 
-![img](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MZVvE5_ih-8CBheubxy%2F-MiVnC7uvjOpZIKAy4tL%2F-MiWWJ9cRu6vxxj29td9%2FYLE2.jpg?alt=media&token=27d78a2f-de4c-4760-a9e5-8af87f2e91fe)
-
 
 
 ## 项目摘要
