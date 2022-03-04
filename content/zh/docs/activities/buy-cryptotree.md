@@ -27,7 +27,6 @@ toc: true
 
 转账Memo备注：CryptoTree
 
-![img](https://2921122931-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FesNmDYwd0kMLWNkYWMQR%2Fuploads%2FbjSfgyAvqROG6IKb2NP2%2Fimage.png?alt=media&token=119f4372-8eb8-47ca-b1b7-062b62a3d32e)
 
 **认购记录链上查询地址**：[https://bloks.io/account/yledeveloper](https://bloks.io/account/yledeveloper)
 
