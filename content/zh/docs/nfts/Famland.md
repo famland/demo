@@ -79,7 +79,6 @@ Famland栽种加密树后，Famland肥力值将按照以下规则转化为肥力
 
 共享值是衡量Famland对YLE生态贡献度的重要指标，只有基本田才能产生共享值，原始田和野田都不会产生。共享值每个rebase周期计算一次。共享值只增不减，用后无论撤销做市本金或收取收益，都不影响共享值，共享值是对用户曾经付出过的价值共享行为的量化。
 
-![img](https://2921122931-files.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MZVvE5_ih-8CBheubxy%2F-Misbd71faCKQGsEXnQ5%2F-Misbte72Ghl2bG5ugPe%2Fimage.png?alt=media&token=163958a3-245e-4c34-869e-ac0440ce3fdd)
 
 **共享值转化额**
 
