@@ -15,7 +15,6 @@ toc: true
 
 CryptoTree是一款价值养成的NFT，是YLE生态第一代NFT树种，限量发行60万株，可永久产出FF、德星等加密数字资产。玩家付出时间、劳动、人缘和运气，不断改变NFT的基因性能，从而提升NFT的价值。
 
-![img](https://2921122931-files.gitbook.io/~/files/v0/b/gitbook-28427.appspot.com/o/assets%2F-MZVvE5_ih-8CBheubxy%2F-Misbd71faCKQGsEXnQ5%2F-Misc02ItW_1VBTGkzcP%2Fimage.png?alt=media&token=95a1e279-019a-4bf4-8cf4-7b76bf2f2ea2)
 
 获得八宝树的渠道
 
